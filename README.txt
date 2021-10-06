@@ -1,3 +1,6 @@
+UI檔案存在google雲端中，下載連結如下：
+https://drive.google.com/file/d/1e2J_3KMxQYu47Sn1x-qQrWz53ZqvB2dr/view?usp=sharing
+
 使用UI_Windows說明
 
 先點選匯入圖片，再輸入打算執行的轉換的參數，在欄中輸入完參數後，即可點選想要進行的轉換鈕，
